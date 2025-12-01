@@ -1,6 +1,5 @@
-version: "3.9"
 services:
-  Aenne:
+  aenne:
     build: .
     ports:
       - "5000:5000"
